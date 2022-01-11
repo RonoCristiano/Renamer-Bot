@@ -19,14 +19,14 @@ class Scripted(object):
 
     ABOUT_TEXT = """
 <b>🤖 𝐌𝐲 𝐍𝐚𝐦𝐞 : <a href='https://t.me/ZK_RenamerBot'>ZK RENAMER</a></b>\n
-<b>📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : <a href='https://t.me/Zee_Kerala_HD'>Zee Keralam</a></b>\n
+<b>📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : <a href='https://t.me/Zee_Keralam_Official'>Zee Keralam</a></b>\n
 <b>👥 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐕𝟐 : <a href='https://t.me/ZK_RenamerBot'>0.9.2 beta</a></b>\n
 <b>📥 𝐒𝐨𝐮𝐫𝐜𝐞 : <a href='https://github.com'>Click Here</a></b>\n
 <b>🌐 𝐒𝐞𝐫𝐯𝐞𝐫 : <a href='https://heroku.com'>Heroku</a></b>\n
 <b>📕 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>\n
 <b>㊙ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞  : <a href='https://www.python.org'>Python 3.9.4</a></b>\n
-<b>👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 : <a href='https://t.me/Zee_Kerala_HD'>Zee Keralam</a></b>\n
-<b>📌 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Zee_Kerala_HD'>Zee Keralam</a></b>\n"""
+<b>👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 : <a href='https://t.me/Zee_Keralam_Official'>Zee Keralam</a></b>\n
+<b>📌 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Zee_Keralam_Official'>Zee Keralam</a></b>\n"""
 
 
     CUSTOM_CAPTION = "<i>{}</i>"
@@ -38,7 +38,7 @@ class Scripted(object):
     THUMBNAIL_DELETED = "<i>Thumbnail DeletedSuccessfully ❎</i>"
     NO_THUMBNAIL_FOUND = "<i>No Thumbnail found😔</i>"
     TRYING_TO_DOWNLOAD = "<i>Trying To Download....</i>"
-    UPLOAD_SUCCESS = "<u><i>Thanks For Using Me 💖 @Zee_Kerala_HD</i></u>"
+    UPLOAD_SUCCESS = "<u><i>Thanks For Using Me 💖 @Zee_Keralam_Official</i></u>"
     REPLY_TO_MEDIA = "<i>Reply to that Media with /convert</i>"
     UPLOAD_START = "<i>📤 Uploading Your File Please Wait...</i>\n"
     DOWNLOAD_START = "<i>📥 Downloading Your File Please Wait...</i>\n"
